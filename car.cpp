@@ -9,7 +9,6 @@ public:
     string model;
     int mileage;
 
-    // سازنده‌ی کلاس
     Car(string b, string m, int d) : brand(b), model(m), mileage(d) {}
 
     // متود drive برای افزایش کیلومتر کارکرد
